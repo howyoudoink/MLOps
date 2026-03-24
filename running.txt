@@ -1,0 +1,16 @@
+cd "D:\!MEHRAN\MLOps"
+
+uvicorn main:app --reload
+
+docker run -p 8000:8000 automotive-ml-api
+
+http://localhost:8000/docs
+
+X-API-Key: mysecretkey
+
+
+
+
+
+
+

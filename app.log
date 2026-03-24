@@ -1,0 +1,32 @@
+2026-02-23 21:51:51,605 | INFO | Incoming Request: GET http://127.0.0.1:8000/
+2026-02-23 21:51:51,610 | INFO | Completed: GET http://127.0.0.1:8000/ | Status: 200 | Time: 0.0048 sec
+2026-02-23 21:51:51,774 | INFO | Incoming Request: GET http://127.0.0.1:8000/favicon.ico
+2026-02-23 21:51:51,775 | INFO | Completed: GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.0012 sec
+2026-02-23 21:51:57,884 | INFO | Incoming Request: GET http://127.0.0.1:8000/docs
+2026-02-23 21:51:57,885 | INFO | Completed: GET http://127.0.0.1:8000/docs | Status: 200 | Time: 0.0008 sec
+2026-02-23 21:51:58,277 | INFO | Incoming Request: GET http://127.0.0.1:8000/openapi.json
+2026-02-23 21:51:58,293 | INFO | Completed: GET http://127.0.0.1:8000/openapi.json | Status: 200 | Time: 0.0161 sec
+2026-02-23 21:52:16,732 | INFO | Incoming Request: POST http://127.0.0.1:8000/predict
+2026-02-23 21:52:16,786 | INFO | Prediction made | Probability: 0.01125979542819866 | Risk: Low
+2026-02-23 21:52:16,790 | INFO | Completed: POST http://127.0.0.1:8000/predict | Status: 200 | Time: 0.0578 sec
+2026-03-17 22:58:40,730 | INFO | Incoming Request: GET http://127.0.0.1:8000/
+2026-03-17 22:58:40,751 | INFO | Completed: GET http://127.0.0.1:8000/ | Status: 200 | Time: 0.0214 sec
+2026-03-17 22:58:41,010 | INFO | Incoming Request: GET http://127.0.0.1:8000/favicon.ico
+2026-03-17 22:58:41,011 | INFO | Completed: GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.0009 sec
+2026-03-17 22:58:45,934 | INFO | Incoming Request: GET http://127.0.0.1:8000/docs
+2026-03-17 22:58:45,935 | INFO | Completed: GET http://127.0.0.1:8000/docs | Status: 200 | Time: 0.0008 sec
+2026-03-17 22:58:47,188 | INFO | Incoming Request: GET http://127.0.0.1:8000/openapi.json
+2026-03-17 22:58:47,208 | INFO | Completed: GET http://127.0.0.1:8000/openapi.json | Status: 200 | Time: 0.0206 sec
+2026-03-17 23:00:44,402 | INFO | Incoming Request: POST http://127.0.0.1:8000/predict
+2026-03-17 23:00:44,406 | WARNING | Unauthorized access attempt detected
+2026-03-17 23:00:44,407 | INFO | Completed: POST http://127.0.0.1:8000/predict | Status: 403 | Time: 0.0058 sec
+2026-03-17 23:02:34,266 | INFO | Incoming Request: POST http://127.0.0.1:8000/predict
+2026-03-17 23:02:34,363 | INFO | Prediction made | Probability: 0.01125979542819866 | Risk: Low
+2026-03-17 23:02:34,370 | INFO | Completed: POST http://127.0.0.1:8000/predict | Status: 200 | Time: 0.1041 sec
+2026-03-24 16:16:10,362 | INFO | Incoming Request: GET http://localhost:8000/docs
+2026-03-24 16:16:10,381 | INFO | Completed: GET http://localhost:8000/docs | Status: 200 | Time: 0.0196 sec
+2026-03-24 16:16:11,316 | INFO | Incoming Request: GET http://localhost:8000/openapi.json
+2026-03-24 16:16:11,379 | INFO | Completed: GET http://localhost:8000/openapi.json | Status: 200 | Time: 0.0624 sec
+2026-03-24 16:16:17,247 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 16:16:17,387 | INFO | Prediction made | Probability: 0.01125979542819866 | Risk: Low
+2026-03-24 16:16:17,390 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.1431 sec
