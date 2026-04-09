@@ -182,4 +182,3 @@ def predict(data: SensorInput, api_key: str = Depends(verify_api_key)):
         raise HTTPException(status_code=500, detail=str(e))
     
 
-

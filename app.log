@@ -30,3 +30,255 @@
 2026-03-24 16:16:17,247 | INFO | Incoming Request: POST http://localhost:8000/predict
 2026-03-24 16:16:17,387 | INFO | Prediction made | Probability: 0.01125979542819866 | Risk: Low
 2026-03-24 16:16:17,390 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.1431 sec
+2026-03-24 16:44:11,273 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 16:44:11,332 | INFO | Prediction made | Probability: 0.01523045151655255 | Risk: Low
+2026-03-24 16:44:11,335 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0623 sec
+2026-03-24 16:50:28,131 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 16:50:28,194 | INFO | Prediction made | Probability: 0.01523045151655255 | Risk: Low
+2026-03-24 16:50:28,199 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0675 sec
+2026-03-24 16:50:38,975 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 16:50:39,031 | INFO | Prediction made | Probability: 0.07750161978277524 | Risk: Low
+2026-03-24 16:50:39,033 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0584 sec
+2026-03-24 16:50:50,056 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 16:50:50,126 | INFO | Prediction made | Probability: 0.07750161978277524 | Risk: Low
+2026-03-24 16:50:50,127 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0714 sec
+2026-03-24 16:51:11,266 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 16:51:11,315 | INFO | Prediction made | Probability: 0.2853995523859382 | Risk: Low
+2026-03-24 16:51:11,316 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0494 sec
+2026-03-24 17:11:50,622 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:11:50,638 | ERROR | Prediction Error: X has 6 features, but StandardScaler is expecting 11 features as input.
+2026-03-24 17:11:50,639 | INFO | Completed: POST http://localhost:8000/predict | Status: 500 | Time: 0.0173 sec
+2026-03-24 17:16:06,117 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:16:06,128 | ERROR | Prediction Error: X has 6 features, but StandardScaler is expecting 11 features as input.
+2026-03-24 17:16:06,130 | INFO | Completed: POST http://localhost:8000/predict | Status: 500 | Time: 0.0135 sec
+2026-03-24 17:16:07,584 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:16:07,587 | ERROR | Prediction Error: X has 6 features, but StandardScaler is expecting 11 features as input.
+2026-03-24 17:16:07,589 | INFO | Completed: POST http://localhost:8000/predict | Status: 500 | Time: 0.0049 sec
+2026-03-24 17:17:24,481 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:17:24,536 | INFO | Prediction made | Probability: 0.9094666120828012 | Risk: High
+2026-03-24 17:17:24,542 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.061 sec
+2026-03-24 17:23:18,513 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:23:18,577 | INFO | Prediction made | Probability: 0.6366266284579608 | Risk: Medium
+2026-03-24 17:23:18,579 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0658 sec
+2026-03-24 17:23:43,900 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:23:43,935 | INFO | Prediction made | Probability: 0.6366266284579608 | Risk: Medium
+2026-03-24 17:23:43,938 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0377 sec
+2026-03-24 17:23:48,361 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:23:48,397 | INFO | Prediction made | Probability: 0.6366266284579608 | Risk: Medium
+2026-03-24 17:23:48,399 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0376 sec
+2026-03-24 17:23:51,432 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:23:51,471 | INFO | Prediction made | Probability: 0.6366266284579608 | Risk: Medium
+2026-03-24 17:23:51,473 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0407 sec
+2026-03-24 17:24:02,466 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:24:02,497 | INFO | Prediction made | Probability: 0.6366266284579608 | Risk: Medium
+2026-03-24 17:24:02,499 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.033 sec
+2026-03-24 17:24:09,191 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:24:09,252 | INFO | Prediction made | Probability: 0.6366266284579608 | Risk: Medium
+2026-03-24 17:24:09,254 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0626 sec
+2026-03-24 17:24:15,051 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:24:15,092 | INFO | Prediction made | Probability: 0.6366266284579608 | Risk: Medium
+2026-03-24 17:24:15,094 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0427 sec
+2026-03-24 17:24:20,260 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:24:20,307 | INFO | Prediction made | Probability: 0.6366266284579608 | Risk: Medium
+2026-03-24 17:24:20,309 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0488 sec
+2026-03-24 17:24:25,702 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:24:25,754 | INFO | Prediction made | Probability: 0.6366266284579608 | Risk: Medium
+2026-03-24 17:24:25,756 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.054 sec
+2026-03-24 17:25:11,868 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:25:11,920 | INFO | Prediction made | Probability: 0.9719168770234349 | Risk: High
+2026-03-24 17:25:11,922 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0534 sec
+2026-03-24 17:25:20,469 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:25:20,503 | INFO | Prediction made | Probability: 0.9719168770234349 | Risk: High
+2026-03-24 17:25:20,505 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0356 sec
+2026-03-24 17:28:01,552 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:28:01,612 | INFO | Prediction made | Probability: 0.9719168770234349 | Risk: High
+2026-03-24 17:28:01,614 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0629 sec
+2026-03-24 17:33:55,512 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:33:55,536 | INFO | Prediction made | Probability: 0.9770747423171997 | Risk: High
+2026-03-24 17:33:55,538 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0257 sec
+2026-03-24 17:37:23,587 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:37:23,638 | INFO | Prediction made | Probability: 0.9770747423171997 | Risk: High
+2026-03-24 17:37:23,642 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0549 sec
+2026-03-24 17:48:02,376 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:48:02,387 | ERROR | Prediction Error: X has 9 features, but StandardScaler is expecting 6 features as input.
+2026-03-24 17:48:02,388 | INFO | Completed: POST http://localhost:8000/predict | Status: 500 | Time: 0.012 sec
+2026-03-24 17:59:00,881 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 17:59:00,913 | INFO | Prediction made | Probability: 0.9993864297866821 | Risk: High
+2026-03-24 17:59:00,917 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0358 sec
+2026-03-24 18:06:05,774 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:06:05,797 | INFO | Prediction made | Probability: 0.9993864297866821 | Risk: High
+2026-03-24 18:06:05,801 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0264 sec
+2026-03-24 18:06:17,710 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:06:17,718 | INFO | Prediction made | Probability: 0.9993864297866821 | Risk: High
+2026-03-24 18:06:17,720 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0093 sec
+2026-03-24 18:07:39,220 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:07:39,232 | INFO | Prediction made | Probability: 0.9993864297866821 | Risk: High
+2026-03-24 18:07:39,234 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0138 sec
+2026-03-24 18:07:41,450 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:07:41,462 | INFO | Prediction made | Probability: 0.9993864297866821 | Risk: High
+2026-03-24 18:07:41,463 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.013 sec
+2026-03-24 18:18:56,035 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:18:56,053 | INFO | Prediction made | Probability: 0.0 | Risk: Low
+2026-03-24 18:18:56,056 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0211 sec
+2026-03-24 18:20:00,648 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:20:00,658 | INFO | Prediction made | Probability: 0.0 | Risk: Low
+2026-03-24 18:20:00,659 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0111 sec
+2026-03-24 18:21:40,721 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:21:40,731 | ERROR | Prediction Error: X has 9 features, but StandardScaler is expecting 6 features as input.
+2026-03-24 18:21:40,732 | INFO | Completed: POST http://localhost:8000/predict | Status: 500 | Time: 0.011 sec
+2026-03-24 18:21:42,541 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:21:42,546 | ERROR | Prediction Error: X has 9 features, but StandardScaler is expecting 6 features as input.
+2026-03-24 18:21:42,548 | INFO | Completed: POST http://localhost:8000/predict | Status: 500 | Time: 0.0064 sec
+2026-03-24 18:22:40,224 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:22:40,274 | INFO | Prediction made | Probability: 0.01523045151655255 | Risk: Low
+2026-03-24 18:22:40,283 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0592 sec
+2026-03-24 18:22:54,620 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:22:54,667 | INFO | Prediction made | Probability: 0.4837899799747935 | Risk: Medium
+2026-03-24 18:22:54,670 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0502 sec
+2026-03-24 18:23:00,864 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:23:00,906 | INFO | Prediction made | Probability: 0.5804715854388411 | Risk: Medium
+2026-03-24 18:23:00,911 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0473 sec
+2026-03-24 18:23:06,038 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:23:06,091 | INFO | Prediction made | Probability: 0.4789848559588129 | Risk: Medium
+2026-03-24 18:23:06,094 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0558 sec
+2026-03-24 18:23:09,848 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:23:09,902 | INFO | Prediction made | Probability: 0.5804715854388411 | Risk: Medium
+2026-03-24 18:23:09,903 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0554 sec
+2026-03-24 18:23:12,610 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:23:12,660 | INFO | Prediction made | Probability: 0.6353462361544886 | Risk: Medium
+2026-03-24 18:23:12,663 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0533 sec
+2026-03-24 18:23:17,741 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-03-24 18:23:17,792 | INFO | Prediction made | Probability: 0.7130982718363947 | Risk: High
+2026-03-24 18:23:17,795 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0544 sec
+2026-04-08 12:17:22,115 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:17:22,216 | INFO | Prediction made | Probability: 0.01523045151655255 | Risk: Low
+2026-04-08 12:17:22,222 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.1067 sec
+2026-04-08 12:17:30,320 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:17:30,360 | INFO | Prediction made | Probability: 0.42338620717794406 | Risk: Medium
+2026-04-08 12:17:30,361 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0412 sec
+2026-04-08 12:17:37,725 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:17:37,761 | INFO | Prediction made | Probability: 0.42338620717794406 | Risk: Medium
+2026-04-08 12:17:37,762 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0372 sec
+2026-04-08 12:17:43,133 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:17:43,176 | INFO | Prediction made | Probability: 0.42338620717794406 | Risk: Medium
+2026-04-08 12:17:43,178 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0445 sec
+2026-04-08 12:17:46,326 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:17:46,373 | INFO | Prediction made | Probability: 0.42338620717794406 | Risk: Medium
+2026-04-08 12:17:46,375 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0491 sec
+2026-04-08 12:17:59,557 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:17:59,599 | INFO | Prediction made | Probability: 0.42338620717794406 | Risk: Medium
+2026-04-08 12:17:59,600 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0427 sec
+2026-04-08 12:18:00,303 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:18:00,340 | INFO | Prediction made | Probability: 0.42338620717794406 | Risk: Medium
+2026-04-08 12:18:00,341 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0383 sec
+2026-04-08 12:18:01,854 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:18:01,903 | INFO | Prediction made | Probability: 0.42338620717794406 | Risk: Medium
+2026-04-08 12:18:01,904 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0505 sec
+2026-04-08 12:36:23,796 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:36:23,888 | INFO | Prediction made | Probability: 0.10952977575941963 | Risk: Low
+2026-04-08 12:36:23,893 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0974 sec
+2026-04-08 12:41:31,923 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:41:32,011 | INFO | Prediction made | Probability: 0.01125979542819866 | Risk: Low
+2026-04-08 12:41:32,019 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0975 sec
+2026-04-08 12:41:37,704 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:41:37,745 | INFO | Prediction made | Probability: 0.01125979542819866 | Risk: Low
+2026-04-08 12:41:37,747 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0428 sec
+2026-04-08 12:41:40,628 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:41:40,674 | INFO | Prediction made | Probability: 0.2225833238700593 | Risk: Low
+2026-04-08 12:41:40,676 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0477 sec
+2026-04-08 12:48:08,218 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:48:08,270 | INFO | Prediction made | Probability: 0.0251160032316516 | Risk: Low
+2026-04-08 12:48:08,275 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0573 sec
+2026-04-08 12:48:12,416 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:48:12,455 | INFO | Prediction made | Probability: 0.49553663900892225 | Risk: Medium
+2026-04-08 12:48:12,456 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0405 sec
+2026-04-08 12:48:17,612 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:48:17,649 | INFO | Prediction made | Probability: 0.4191421967404609 | Risk: Medium
+2026-04-08 12:48:17,650 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0386 sec
+2026-04-08 12:57:12,380 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:12,543 | INFO | Prediction made | Probability: 0.01125979542819866 | Risk: Low
+2026-04-08 12:57:12,552 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.173 sec
+2026-04-08 12:57:18,510 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:18,575 | INFO | Prediction made | Probability: 0.2225833238700593 | Risk: Low
+2026-04-08 12:57:18,577 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0675 sec
+2026-04-08 12:57:20,497 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:20,556 | INFO | Prediction made | Probability: 0.15130879550332865 | Risk: Low
+2026-04-08 12:57:20,557 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0608 sec
+2026-04-08 12:57:22,749 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:22,798 | INFO | Prediction made | Probability: 0.4831900708786619 | Risk: Medium
+2026-04-08 12:57:22,799 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0508 sec
+2026-04-08 12:57:24,855 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:24,907 | INFO | Prediction made | Probability: 0.7276790690694507 | Risk: High
+2026-04-08 12:57:24,910 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0552 sec
+2026-04-08 12:57:27,097 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:27,137 | INFO | Prediction made | Probability: 0.4831900708786619 | Risk: Medium
+2026-04-08 12:57:27,138 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0415 sec
+2026-04-08 12:57:30,099 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:30,158 | INFO | Prediction made | Probability: 0.522924806414058 | Risk: Medium
+2026-04-08 12:57:30,159 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0602 sec
+2026-04-08 12:57:32,146 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:32,185 | INFO | Prediction made | Probability: 0.6564885028496411 | Risk: Medium
+2026-04-08 12:57:32,186 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0403 sec
+2026-04-08 12:57:34,713 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:34,764 | INFO | Prediction made | Probability: 0.5432651515151514 | Risk: Medium
+2026-04-08 12:57:34,766 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0522 sec
+2026-04-08 12:57:36,142 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:36,171 | INFO | Prediction made | Probability: 0.43916666666666665 | Risk: Medium
+2026-04-08 12:57:36,173 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0315 sec
+2026-04-08 12:57:38,240 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:38,278 | INFO | Prediction made | Probability: 0.497636815083849 | Risk: Medium
+2026-04-08 12:57:38,279 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0397 sec
+2026-04-08 12:57:40,078 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:40,121 | INFO | Prediction made | Probability: 0.497636815083849 | Risk: Medium
+2026-04-08 12:57:40,122 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.044 sec
+2026-04-08 12:57:42,170 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:42,211 | INFO | Prediction made | Probability: 0.497636815083849 | Risk: Medium
+2026-04-08 12:57:42,212 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0418 sec
+2026-04-08 12:57:42,485 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:42,522 | INFO | Prediction made | Probability: 0.497636815083849 | Risk: Medium
+2026-04-08 12:57:42,523 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0378 sec
+2026-04-08 12:57:42,662 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:42,694 | INFO | Prediction made | Probability: 0.497636815083849 | Risk: Medium
+2026-04-08 12:57:42,696 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0338 sec
+2026-04-08 12:57:42,804 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:42,843 | INFO | Prediction made | Probability: 0.497636815083849 | Risk: Medium
+2026-04-08 12:57:42,844 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0397 sec
+2026-04-08 12:57:46,641 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:46,681 | INFO | Prediction made | Probability: 0.48424980798771117 | Risk: Medium
+2026-04-08 12:57:46,683 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0413 sec
+2026-04-08 12:57:48,183 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:48,227 | INFO | Prediction made | Probability: 0.43916666666666665 | Risk: Medium
+2026-04-08 12:57:48,228 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0453 sec
+2026-04-08 12:57:50,161 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:57:50,205 | INFO | Prediction made | Probability: 0.4865 | Risk: Medium
+2026-04-08 12:57:50,207 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0459 sec
+2026-04-08 12:58:21,320 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 12:58:21,375 | INFO | Prediction made | Probability: 0.5888644882565324 | Risk: Medium
+2026-04-08 12:58:21,377 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0564 sec
+2026-04-08 22:00:17,351 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 22:00:17,848 | INFO | Prediction made | Probability: 0.01125979542819866 | Risk: Low
+2026-04-08 22:00:17,916 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.5647 sec
+2026-04-08 22:00:26,826 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 22:00:26,921 | INFO | Prediction made | Probability: 0.39308276207394416 | Risk: Medium
+2026-04-08 22:00:26,922 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0963 sec
+2026-04-08 22:00:29,876 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 22:00:29,960 | INFO | Prediction made | Probability: 0.010042814322440727 | Risk: Low
+2026-04-08 22:00:29,961 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0846 sec
+2026-04-08 22:00:32,010 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 22:00:32,097 | INFO | Prediction made | Probability: 0.01192902486299635 | Risk: Low
+2026-04-08 22:00:32,100 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.09 sec
+2026-04-08 22:00:34,674 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 22:00:34,759 | INFO | Prediction made | Probability: 0.45950297738931434 | Risk: Medium
+2026-04-08 22:00:34,762 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0875 sec
+2026-04-08 22:00:36,881 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 22:00:36,953 | INFO | Prediction made | Probability: 0.39308276207394416 | Risk: Medium
+2026-04-08 22:00:36,955 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0735 sec
+2026-04-08 22:00:38,877 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 22:00:38,940 | INFO | Prediction made | Probability: 0.45950297738931434 | Risk: Medium
+2026-04-08 22:00:38,942 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0653 sec
+2026-04-08 22:00:41,402 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 22:00:41,491 | INFO | Prediction made | Probability: 0.7097085013065917 | Risk: High
+2026-04-08 22:00:41,493 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.0909 sec
+2026-04-08 22:02:01,974 | INFO | Incoming Request: POST http://localhost:8000/predict
+2026-04-08 22:02:02,058 | INFO | Prediction made | Probability: 0.7097085013065917 | Risk: High
+2026-04-08 22:02:02,059 | INFO | Completed: POST http://localhost:8000/predict | Status: 200 | Time: 0.085 sec
